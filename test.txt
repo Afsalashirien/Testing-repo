@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 36DE-4748
+
+ Directory of C:\Users\afsi7\Dropbox\My PC (DESKTOP-B1AJP0P)\Desktop\Project
+
+13-02-2022  22:44    <DIR>          .
+13-02-2022  22:44    <DIR>          ..
+13-02-2022  22:44                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  762,449,211,392 bytes free
